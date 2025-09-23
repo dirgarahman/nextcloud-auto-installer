@@ -35,7 +35,7 @@ Easy to use, includes configuration for **Apache, MariaDB, PHP 8.2, Redis, APCu,
 
    Update values as needed:
 
-   - `SERVER_NAME="cloud.brighton"`  
+   - `SERVER_NAME="cloud.techcaresolutions.id"`  
      → your domain (e.g. `cloud.mydomain.com`)
 
    - `SERVER_IP="192.168.1.50"`  
@@ -62,7 +62,7 @@ Easy to use, includes configuration for **Apache, MariaDB, PHP 8.2, Redis, APCu,
 
 1. Open your browser and go to:
    ```
-   http://cloud.brighton/
+   http://cloud.techcaresolutions.id/
    ```
    (or your configured domain/IP)
 
